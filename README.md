@@ -1,8 +1,13 @@
-# 💫 About Me:
-# 👋 Hello, I'm LittleTech
-
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius: 50%; border: 4px solid #3a7bd5; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="LittleTechUg" />
+  
+  # 👨💻 **Hi, I'm [LittleTechUg](https://github.com/LittleTechUg)**  
 **C.E.O @ LittleTechUg** | 🚀 React Native Developer | 💻 JavaScript | Tech Enthusiast  
 | 🚀 Web  Developer|💄Graphics Designer
+  | React Native • JavaScript • Open-Source  
+</div>
+
+# 💫 About Me:
 
 ✨ Currently crafting amazing mobile & desktop experiences  
 
